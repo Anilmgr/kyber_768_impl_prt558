@@ -1,7 +1,7 @@
 ```markdown
 # 🔐 Kyber-768 Python Implementation – PRT558 Project
 
-This repository contains a Python implementation of the **Kyber-768** Key Encapsulation Mechanism (KEM), a **post-quantum cryptographic algorithm** selected by **NIST** for standardization. This project was developed as part of the **PRT558 – Information Security** unit.
+This repository contains a Python implementation of the Kyber-768 Key Encapsulation Mechanism (KEM), a post-quantum cryptographic algorithm selected by NIST for standardization. This project was developed as part of the PRT558 – Information Security unit.
 
 ---
 
